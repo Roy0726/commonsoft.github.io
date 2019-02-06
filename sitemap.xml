@@ -2,17 +2,17 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <sitemap>
-        <loc>commonsoft.github.io/post-sitemap.xml</loc>
+        <loc>https://commonsoft.github.io/post-sitemap.xml</loc>
         <lastmod>2019-02-06T18:06:02.103Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>commonsoft.github.io/page-sitemap.xml</loc>
+        <loc>https://commonsoft.github.io/page-sitemap.xml</loc>
         <lastmod>2019-02-06T18:06:02.179Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>commonsoft.github.io/tag-sitemap.xml</loc>
+        <loc>https://commonsoft.github.io/tag-sitemap.xml</loc>
         <lastmod>2019-02-06T18:06:02.103Z</lastmod>
     </sitemap>
 
