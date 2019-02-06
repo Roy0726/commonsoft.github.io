@@ -7,6 +7,14 @@
     </url>
 
     <url>
+        <loc>https://commonsoft.github.com/2019/02/07/test/</loc>
+        <lastmod>2019-02-06T19:06:18.381Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://commonsoft.github.com/2017/03/18/hexo-theme-beantech/</loc>
         <lastmod>2019-02-06T18:06:02.103Z</lastmod>
         <changefreq>weekly</changefreq>
